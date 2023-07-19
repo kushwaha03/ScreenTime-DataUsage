@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ScreenTime
 //
-//  Created by Mobile Programming  on 18/07/23.
+//  Created by KK  on 18/07/23.
 //
 
 import SwiftUI
